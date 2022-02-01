@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T08:39:49.582Z" agent="5.0 (Windows)" etag="AFodwfctqPmoq_8xg0H2" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T08:41:53.202Z" agent="5.0 (Windows)" etag="2Xd6UGjzCr8tYuQeALhw" version="16.5.2" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1718" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -695,7 +695,7 @@
         <mxCell id="oC9rU_n9ysh1uVX6l2-E-220" value="&lt;b&gt;10nF&lt;/b&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=0;spacingRight=0;spacingTop=6;labelPosition=center;direction=east;spacingLeft=0;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="800" width="32.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oC9rU_n9ysh1uVX6l2-E-221" value="100k&lt;span&gt;Ω&lt;/span&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="oC9rU_n9ysh1uVX6l2-E-221" value="1k&lt;span&gt;Ω&lt;/span&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="361" y="870" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oC9rU_n9ysh1uVX6l2-E-222" value="&lt;b&gt;10kΩ&lt;/b&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;spacing=-2;" vertex="1" parent="1">
