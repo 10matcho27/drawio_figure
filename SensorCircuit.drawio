@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T11:24:51.530Z" agent="5.0 (Windows)" etag="oUWt5yugn1VTccRGs_IX" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T07:55:29.485Z" agent="5.0 (Windows)" etag="tIucl_gTwVcMhOCPJTS0" version="16.5.6" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="2062" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -480,7 +480,7 @@
             <mxPoint x="424" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC9rU_n9ysh1uVX6l2-E-157" value="&lt;b&gt;LT1818&lt;/b&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.abstract.operational_amp_1;rotation=0;labelPosition=center;spacingRight=7;" parent="1" vertex="1">
+        <mxCell id="oC9rU_n9ysh1uVX6l2-E-157" value="&lt;b&gt;OPA333&lt;/b&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.abstract.operational_amp_1;rotation=0;labelPosition=center;spacingRight=7;" parent="1" vertex="1">
           <mxGeometry x="471" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oC9rU_n9ysh1uVX6l2-E-159" value="&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;VBIAS&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.vdd;shadow=0;dashed=0;align=center;strokeWidth=1;fontSize=24;html=1;flipV=1;rotation=90;" parent="1" vertex="1">
@@ -821,7 +821,7 @@
             <mxPoint x="424" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC9rU_n9ysh1uVX6l2-E-251" value="&lt;b&gt;LT1818&lt;/b&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.abstract.operational_amp_1;rotation=0;labelPosition=center;spacingRight=7;" parent="1" vertex="1">
+        <mxCell id="oC9rU_n9ysh1uVX6l2-E-251" value="&lt;b&gt;OPA333&lt;/b&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.abstract.operational_amp_1;rotation=0;labelPosition=center;spacingRight=7;" parent="1" vertex="1">
           <mxGeometry x="471" y="760" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oC9rU_n9ysh1uVX6l2-E-252" value="&lt;b&gt;0.22µF&lt;/b&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;spacingRight=0;spacingTop=8;labelPosition=center;direction=east;spacingLeft=0;spacing=2;" parent="1" vertex="1">
