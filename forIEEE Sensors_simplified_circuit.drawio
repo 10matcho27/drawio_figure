@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T07:31:43.766Z" agent="5.0 (Windows)" etag="0h51xA3uDqMbZhV-l8mB" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T07:33:06.450Z" agent="5.0 (Windows)" etag="kewmEYqWarY7FbtDNAvD" version="20.2.3" type="github">
   <diagram id="Ji1E_a3WMPIpSVAi8yMO" name="ページ1">
     <mxGraphModel dx="2062" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="287" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="580" y="213.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYK7HNWiEEQ-Ol6Rwyi4-17" value="&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;V&lt;sub&gt;bias&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(=V&lt;sub&gt;dd&lt;/sub&gt; / 2)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.vdd;shadow=0;dashed=0;align=center;strokeWidth=1;fontSize=24;html=1;flipV=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="UYK7HNWiEEQ-Ol6Rwyi4-17" value="&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;V&lt;sub&gt;bias&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(=V&lt;sub&gt;dd&lt;/sub&gt; / 2)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.vdd;shadow=0;dashed=0;align=center;strokeWidth=1;fontSize=24;html=1;flipV=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="480" y="111" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UYK7HNWiEEQ-Ol6Rwyi4-18" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;5.1kΩ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=-90;labelPosition=center;direction=west;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
